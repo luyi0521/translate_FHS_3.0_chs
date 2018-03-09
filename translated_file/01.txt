@@ -1,9 +1,0 @@
-文件系统目录标准
-
-Linux Standrad Base 工作组， Linux 基金会
-
-  版本 3.0
-
-  
-   Version 3.0
-
