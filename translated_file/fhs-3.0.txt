@@ -1,26 +1,22 @@
-Filesystem Hierarchy Standard
+文件系统目录标准
 
-LSB Workgroup, The Linux Foundation
+LSB工作组，Linux基金会
 
-   Version 3.0
+   版本 3.0
 
-   Copyright © 2015 The Linux Foundation
+   版权所属 © 2015 The Linux Foundation
 
-   Copyright © 1994-2004 Daniel Quinlan
+   版权所属 © 1994-2004 Daniel Quinlan
 
-   Copyright © 2001-2004 Paul 'Rusty' Russell
+   版权所属 © 2001-2004 Paul 'Rusty' Russell
 
-   Copyright © 2003-2004 Christopher Yeoh
+   版权所属 © 2003-2004 Christopher Yeoh
 
-   All trademarks and copyrights are owned by their owners, unless
-   specifically noted otherwise. Use of a term in this document
-   should not be regarded as affecting the validity of any
-   trademark or service mark.
+   所有商标和版权归其所有者所有，除非另有特别指出。在本文档中使用术语不应被视为影响任何商标或服务合法性的标志。
 
-   Permission is granted to make and distribute verbatim copies of
-   this standard provided the copyright and this permission notice
-   are preserved on all copies.
+   允许制作和分发原始版本的条件是：版权声明和本许可被保留在所有的副本中。
 
+   允许复制并分发修改过的版本的条件是：
    Permission is granted to copy and distribute modified versions
    of this standard under the conditions for verbatim copying,
    provided also that the title page is labeled as modified

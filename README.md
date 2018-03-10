@@ -15,3 +15,7 @@ Goals
 2、learn tecnical English
 3、prepare translate other documents
 4、practise git tool skill
+
+翻译原文来自：refspecs.linuxfoundation.org/fhs.shtml
+
+翻译过程参考bing翻译、google翻译等线上平台
