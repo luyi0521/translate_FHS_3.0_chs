@@ -1,4 +1,8 @@
 # translate_FHS_3.0_chs
+
+### 项目状态
+正在进行时，翻译内容仅供参考。
+
 尝试翻译FHS 3.0。
 Try to translate FHS 3.0.
 
